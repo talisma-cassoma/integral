@@ -1,8 +1,7 @@
-/*================= invitation  des headers ========================*/
 #include<stdio.h>//lecture et ecriture 
 #include<math.h>//fonctions  mathématiques
 /*================= la fonction principale ========================*/
-main()
+int main()
 {
      float a=0.0,b=1.0,x,xig[1000],xid[1000],xic[1000],dx,IE,IG,ID,IC;
      float f[1000],SG,SD,SC;
